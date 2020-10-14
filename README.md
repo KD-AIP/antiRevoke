@@ -1,0 +1,2 @@
+* Certificate revocation + iOs update + block ads:  [RAU.mobileconfig](https://raw.githubusercontent.com/KD-AIP/antiRevoke/master/RAU.mobileconfig)
+* Certificate revocation + iOs update(ppq) + block ads:  [RAU.mobileconfig](https://raw.githubusercontent.com/KD-AIP/antiRevoke/master/RAUP.mobileconfig)
