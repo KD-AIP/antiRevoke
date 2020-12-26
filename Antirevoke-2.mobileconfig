@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>This profile requires your iDevice be managed/supervised.</string>
+	</dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Global HTTP Proxy</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.proxy.http.global</string>
+			<key>PayloadType</key>
+			<string>com.apple.proxy.http.global</string>
+			<key>PayloadUUID</key>
+			<string>D791B659-2026-4EE7-987B-723835883ABA</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyCaptiveLoginAllowed</key>
+			<true/>
+			<key>ProxyPACURL</key>
+			<string>https://pastebin.com/raw/AUCAzmct</string>
+			<key>ProxyType</key>
+			<string>Auto</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Antirevoke by KaoTD</string>
+	<key>PayloadDisplayName</key>
+	<string>Antirevoke</string>
+	<key>PayloadIdentifier</key>
+	<string>net.kaotd.antirevoke</string>
+	<key>PayloadOrganization</key>
+	<string>KaoTD</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>8E180133-B067-440F-97D6-D87F5C8C8A77</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
