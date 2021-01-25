@@ -22,7 +22,7 @@
 		<key>ProxyPACFallbackAllowed</key>
 			<false/>
 			<key>ProxyPACURL</key>
-			<string>https://pastebin.com/raw/AUCAzmct</string>
+			<string>https://raw.githubusercontent.com/KD-AIP/antiRevoke/master/Script/Antirevoke.js</string>
 			<key>ProxyType</key>
 			<string>Auto</string>
 		</dict>
